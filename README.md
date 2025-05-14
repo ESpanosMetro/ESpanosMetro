@@ -1,6 +1,6 @@
 # Greetings Fellow Human Beings 👋
 
-My name is Benny and I am a Design ECE Student at Metro Early College High School, where I manage the Programing subgroup for FIRST Robotics Team 3324, the Metrobots.
+My name is Evergreen and I am a Design ECE Student at Metro Early College High School, where I manage the Programing subgroup for FIRST Robotics Team 3324, the Metrobots.
 
 - 🌱 I’m currently learning to implement interoperability
 - 💬 Ask me about FIRST Robotics Programming/WPILib <!-- - 📫 How to reach me: spanos.1@themetroschool.org -->
